@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DriverTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-18T16:55:33" hostname="DESKTOP-CF17FUP" time="0.349">
+  <properties/>
+  <testcase name="Input All Student Mock Data" classname="DriverTesting" time="0.349"/>
+  <system-out><![CDATA[======================================================
+List of Courses and their Associated Module: 
+Course : Electronic and Computer Engineering
+Associated Module : Software Engineering
+Course : MicroBiology
+Associated Module : Organic Chemistry
+Course : Zoology
+Associated Module : Paleontology
+Course : Commerce
+Associated Module : Ireland In The Global Economy
+=====================================================
+List of Students with their Associated Courses and Modules: 
+Eve Harrison(Eve Harrison21):
+Course Enrolled In : Electronic and Computer Engineering
+Associated Module : Software Engineering
+Robyn Meaney(Robyn Meaney22):
+Course Enrolled In : MicroBiology
+Associated Module : Organic Chemistry
+Shane Brenan(Shane Brenan23):
+Course Enrolled In : Zoology
+Associated Module : Paleontology
+Rory O'Neil(Rory O'Neil20):
+Course Enrolled In : Commerce
+Associated Module : Ireland In The Global Economy
+======================================================
+List of Lecturers : 
+Lecturer Username : Britney Spears45
+Lecturer Username : Phoebe Bridgers27
+Lecturer Username : Michael Scott58
+Lecturer Username : Kendrick Lamar35
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
